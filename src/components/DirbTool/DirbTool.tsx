@@ -69,7 +69,7 @@ function Dirb() {
         "Dirb is a Web Content Scanner. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary-based attack against a web server and analyzing the response.";
     const steps =
         "Step 1: Enter the base URL.\n" +
-        "Step 2: Select the desired parameters for the Dirb command, including the wordlist dictionary size.\n" +
+        "Step 2: Select the desired parameters for the Dirb command, including the wordlist size.\n" +
         "Step 3: Click the 'Run Dirb' button to initiate the scanning process.\n" +
         "Step 4: Review the output in the console to identify any detected web objects or hidden content.\n";
     const sourceLink = "";
